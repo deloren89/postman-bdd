@@ -188,9 +188,12 @@ Import the [Postman BDD Collection](test/newman/postman_bdd_collection.json), an
 License
 --------------------------
 Postman BDD is 100% free and open-source, under the [MIT license](LICENSE). Use it however you want.
+--------------------------
 
+Pre-Request scripts for automation & BDD tutorials
 
 + http://www.chaijs.com/api/bdd/
 + https://automationrhapsody.com/introduction-postman-examples/
 + https://automationrhapsody.com/implement-secure-rest-api-authentication-http/
 + https://seleniumwithjavapython.wordpress.com/home/testing-rest-apis-with-postman-and-jenkins-part-2/
++ https://www.runscope.com/docs/api-testing/scripts/pre-request
