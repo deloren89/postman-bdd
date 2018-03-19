@@ -190,7 +190,7 @@ License
 Postman BDD is 100% free and open-source, under the [MIT license](LICENSE). Use it however you want.
 --------------------------
 
-Pre-Request scripts for automation & BDD tutorials
+*Pre-Request scripts for automation & BDD tutorials*
 
 + http://www.chaijs.com/api/bdd/
 + https://automationrhapsody.com/introduction-postman-examples/
